@@ -12,5 +12,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihakar4455&show_icons=true&locale=en" alt="fatihakar4455" /></p>
 
-
-![Snake animation](https://github.com/fatihakar4455/fatihakar4455/blob/output/github-contribution-grid-snake.svg)
