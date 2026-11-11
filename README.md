@@ -1,5 +1,4 @@
 ![MasterHead](https://www.evoset.com.tr/wp-content/uploads/2024/08/ozel_yazilim2.jpg)
-<h1 align="center">Hi 👋, I'm Fatih AKAR</h1>
 <h3 align="center">Field Support Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
